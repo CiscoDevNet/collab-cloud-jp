@@ -1,3 +1,6 @@
+The structure of this Learning module is below.
+A "(labs/xyz-jp)" in the doc is a target lab.
+
 # An introduction to Cisco Spark API
 
 We learn about how to construct the attractive user experience on Cisco Collaboration Platform.
@@ -6,8 +9,6 @@ This lab demonstrates how to automate the Cisco Spark, acts as an interactive as
   * 3 modules
   * 10 learning labs
   * 4hours
-
-The structure of this Learning Labs is below.
 
 ### Cisco Spark API 101
 

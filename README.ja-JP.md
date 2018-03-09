@@ -1,3 +1,6 @@
+The structure of this Learning module is below.
+A "(labs/xyz-jp)" in the doc is a target lab.
+
 # Cisco Spark API 入門
 
 シスコのクラウドコラボレーションプラットフォームで魅力的なユーザエクスペリエンスを構築する方法を学びます。これらの学習ラボでは、Cisco Spark を自動化し、インタラクティブなアシスタントとして動作、または他のユーザの代わりに動作するアプリケーションをゼロから作成します。コードの記述を行いたくない場合は、サードパーティの統合サービスに関するラボを受講してください。
@@ -5,8 +8,6 @@
   * 3 つのモジュール
   * 10 の学習ラボ
   * 4 時間
-
-The structure of this Learning Labs is below.
 
 ### Cisco Spark API 初級  
 (Cisco Spark API 101)  
