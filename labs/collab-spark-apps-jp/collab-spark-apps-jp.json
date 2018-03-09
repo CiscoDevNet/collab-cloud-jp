@@ -1,0 +1,32 @@
+{
+  "labId": "collab-spark-apps-jp",
+  "title": "Introduction to Cisco Spark Apps (Japanese)",
+  "slug": "「Cisco Spark アプリの概要」 機能、使用例、Cisco Spark アプリのタイプ（インテグレーションおよびボット）など、Cisco Spark の拡張に関する概要です。",
+  "time": 15,
+  "byod": true,
+  "files": [
+    {"title": "1.md"},
+    {"title": "2.md"},
+    {"title": "3.md"},
+    {"title": "4.md"},
+    {"title": "5.md"}
+  ],
+  "tags": [
+    {"title": "Japanese"},
+    {"title" : "コラボレーション"},
+    {"title": "Spark"}
+  ],
+  "related": [
+    {
+      "labId": "collab-spark-message-jp",
+	    "title": "Postman での Cisco Spark API の呼び出し"
+    }
+  ],
+  "authors": [
+  	{"name": "Stève Sfartz", "email": "stsfartz@cisco.com"}
+  ],
+  "reviewers": [
+  	{"name": "David Staudt", "email": "dstaudt@cisco.com"}
+  ],
+  "active": true
+}

@@ -1,0 +1,32 @@
+{
+  "labId": "collab-sparkwebhook-jp",
+  "title": "Experiment With Cisco Spark Webhooks (Japanese)",
+  "slug": "「Cisco Spark ウェブフックを体験してみる」新しいメッセージをサブスクライブするウェブフックを作成し、ウェブフック イベントの詳細をリアルタイムで確認します",
+  "time": "15",
+  "tags": [
+    {"title": "Japanese"},
+    {"title" : "コラボレーション"},
+    {"title": "Spark"},
+  	{"title": "Postman"}
+  ],
+  "files": [
+    {"title": "1.md"},
+    {"title": "2.md"},
+	  {"title": "3.md"},
+    {"title": "4.md"}
+  ],
+   "related": [
+    {
+      "labId": "collab-spark-auth-jp",
+      "title": "Understanding the OAuth Flow of a Cisco Spark Integration（Cisco Spark 統合の OAuth フローについて理解する）"
+    },
+    {
+	  "labId": "collab-spark-message-jp",
+	  "title": "Creating Rooms, Adding Participants and Posting Messages（Space を作成し、参加者を追加して、メッセージを投稿する）"
+	}
+  ],
+  "byod": true,
+  "authors": [
+  	{"name": "Adrienne Moherek", "email": "amoherek@cisco.com"}
+  ]
+}

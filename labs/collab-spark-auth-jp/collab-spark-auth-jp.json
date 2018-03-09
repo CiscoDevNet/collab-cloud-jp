@@ -1,0 +1,32 @@
+{
+  "labId": "collab-spark-auth-jp",
+  "title": "Understanding the OAuth Flow of a Cisco Spark Integration (Japanese)",
+  "slug": "「Cisco Spark インテグレーションの OAuth フローについて」 新しい Cisco Spark インテグレーションの登録方法、およびブラウザベースのアプリケーションからの認証方法について学習します。",
+  "time": "30",
+  "byod": true,
+  "tags": [
+    {"title": "Japanese"},
+    {"title" : "コラボレーション"},
+    {"title": "Spark"}
+  ],
+  "related": [
+    {
+      "labId": "collab-spark-message-jp",
+      "title": "Spark Space の作成、参加者の追加、メッセージの投稿"
+    },
+    {
+	  "labId": "collab-sparkwebhook-jp",
+	  "title": "Cisco Spark Webhook の体験"
+	}
+  ],
+  "files": [
+    {"title": "1.md"},
+    {"title": "2.md"},
+    {"title": "3.md"},
+    {"title": "4.md"},
+    {"title": "5.md"}
+  ],
+  "authors": [
+  	{"name": "David Staudt", "email": "dstaudt@cisco.com"}
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "labId": "collab-business-sparksdk-widgets-itp-jp",
+  "title": "Experiment Audio/Video Calling & Messaging with Cisco Spark Widgets (Japanese)",
+  "slug": "「Cisco Spark ウィジェットを使用した音声/ビデオ通話およびメッセージングの体験」 Cisco Spark SDK およびウィジェットの音声/ビデオ通話、メッセージング機能について学習し、ライブ デモを通じてそれらを体験します。",
+  "time": 10,
+  "byod": true,
+  "files": [
+    {
+      "title": "1.md"
+    },
+    {
+      "title": "2.md"
+    },
+    {
+      "title": "3.md"
+    }
+  ],
+  "tags": [
+    {"title": "Japanese"},
+    {
+      "title": "コラボレーション"
+    },
+    {
+      "title": "Cisco Spark"
+    },
+    {
+      "title": "DevNet Express"
+    }
+  ],
+  "related": [],
+  "authors": [
+    {
+      "name": "Stève Sfartz",
+      "email": "stsfartz@cisco.com"
+    }
+  ],
+  "reviewers": [],
+  "active": true
+}

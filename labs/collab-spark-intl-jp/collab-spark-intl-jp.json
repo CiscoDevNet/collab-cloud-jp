@@ -1,0 +1,31 @@
+﻿{
+  "labId": "collab-spark-intl-jp",
+  "title": "Run a Cisco Spark Integration locally (Japanese)",
+  "slug": "「Cisco Spark インテグレーションをローカルで実行する」このモジュールの目標は、nodejs のサンプルをローカル マシンで起動し、Cisco Spark インテグレーションとして登録します。",
+  "time": 15,
+  "byod": true,
+  "files": [
+    {"title": "Japanese"},
+    {"title": "1.md"},
+    {"title": "2.md"},
+    {"title": "3.md"},
+    {"title": "4.md"}
+  ],
+  "tags": [
+    {"title" : "コラボレーション"},
+    {"title": "Spark"}
+  ],
+  "related": [
+    {
+      "labId": "collab-spark-intd-heroku-jp",
+	    "title": "最初の Cisco Spark インテグレーションを展開します。"
+    }
+  ],
+  "authors": [
+  	{"name": "Stève Sfartz", "email": "stsfartz@cisco.com"}
+  ],
+  "reviewers": [
+  	{"name": "Tessa Mero", "email": "tmero@cisco.com"}
+  ],
+  "active": true
+}
