@@ -1,4 +1,4 @@
-﻿{
+{
   "labId": "collab-spark-intl-jp",
   "title": "Run a Cisco Spark Integration locally (Japanese)",
   "slug": "「Cisco Spark インテグレーションをローカルで実行する」このモジュールの目標は、nodejs のサンプルをローカル マシンで起動し、Cisco Spark インテグレーションとして登録します。",
