@@ -5,7 +5,6 @@
   "time": 15,
   "byod": true,
   "files": [
-    {"title": "Japanese"},
     {"title": "1.md"},
     {"title": "2.md"},
     {"title": "3.md"},
@@ -13,7 +12,8 @@
     {"title": "5.md"}
   ],
   "tags": [
-    {"title" : "コラボレーション"},
+    {"title": "Japanese"},
+    {"title": "コラボレーション"},
     {"title": "Spark"}
   ],
   "related": [
