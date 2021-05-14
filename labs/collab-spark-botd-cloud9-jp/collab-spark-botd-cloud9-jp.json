@@ -1,32 +1,12 @@
 {
   "labId": "collab-spark-botd-cloud9-jp",
-  "title": "Deploy a Cisco Spark Bot (Japanese)",
-  "slug": "「Cisco Spark ボットの展開」 nodejs のサンプルを Cloud9 に展開し、Cisco Spark ボットとして登録する方法を学習します。",
+  "title": "Deploy a Webex Bot (Japanese)",
+  "slug": "「Webex ボットの展開」 nodejs のサンプルを Cloud9 に展開し、Webex ボットとして登録する方法を学習します。",
   "time": 25,
-  "byod": true,
+  "byod": false,
   "files": [
-    {"title": "1.md"},
-    {"title": "2.md"},
-    {"title": "3.md"},
-    {"title": "4.md"},
-    {"title": "5.md"}
+    {"title": "1.md"}
   ],
-  "tags": [
-    {"title": "Japanese"},
-    {"title": "コラボレーション"},
-    {"title": "Spark"}
-  ],
-  "related": [
-    {
-      "labId": "collab-spark-intl-jp",
-	    "title": "最初の Cisco Spark インテグレーションを展開"
-    }
-  ],
-  "authors": [
-  	{"name": "Stève Sfartz", "email": "stsfartz@cisco.com"}
-  ],
-  "reviewers": [
-  	{"name": "Tessa Mero", "email": "tmero@cisco.com"}
-  ],
+  "redirectTo": "collab-webex-botd-cloud9-jp",
   "active": true
 }

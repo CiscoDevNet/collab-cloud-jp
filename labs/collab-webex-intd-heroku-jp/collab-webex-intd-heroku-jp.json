@@ -1,0 +1,31 @@
+{
+  "labId": "collab-webex-intd-heroku-jp",
+  "title": "Deploy a Webex Integration (Japanese)",
+  "slug": "「Webex インテグレーションを導入する」このモジュールの目標は、nodejs のサンプルを Heroku に導入し、Webex インテグレーションとして登録する方法を学習します。",
+  "time": 20,
+  "byod": true,
+  "files": [
+    {"title": "1.md"},
+    {"title": "2.md"},
+    {"title": "3.md"},
+    {"title": "4.md"}
+  ],
+  "tags": [
+    {"title": "Japanese"},
+    {"title": "コラボレーション"},
+    {"title": "Webex"}
+  ],
+  "related": [
+    {
+      "labId": "collab-webex-zapier-jp",
+	    "title": "Zapier を使用した Cisco Webex の拡張"
+    }
+  ],
+  "authors": [
+  	{"name": "Stève Sfartz", "email": "stsfarz@cisco.com"}
+  ],
+  "reviewers": [
+  	{"name": "Tessa Mero", "email": "tmero@cisco.com"}
+  ],
+  "active": true
+}

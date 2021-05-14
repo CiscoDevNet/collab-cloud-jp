@@ -1,31 +1,12 @@
 {
   "labId": "collab-spark-intd-heroku-jp",
-  "title": "Deploy a Cisco Spark Integration (Japanese)",
-  "slug": "「Cisco Spark インテグレーションを導入する」このモジュールの目標は、nodejs のサンプルを Heroku に導入し、Cisco Spark インテグレーションとして登録する方法を学習します。",
+  "title": "Deploy a Webex Integration (Japanese)",
+  "slug": "「Webex インテグレーションを導入する」このモジュールの目標は、nodejs のサンプルを Heroku に導入し、Webex インテグレーションとして登録する方法を学習します。",
   "time": 20,
-  "byod": true,
+  "byod": false,
   "files": [
-    {"title": "1.md"},
-    {"title": "2.md"},
-    {"title": "3.md"},
-    {"title": "4.md"}
+    {"title": "1.md"}
   ],
-  "tags": [
-    {"title": "Japanese"},
-    {"title": "コラボレーション"},
-    {"title": "Spark"}
-  ],
-  "related": [
-    {
-      "labId": "collab-spark-zapier-jp",
-	    "title": "Zapier を使用した Cisco Spark の拡張"
-    }
-  ],
-  "authors": [
-  	{"name": "Stève Sfartz", "email": "stsfarz@cisco.com"}
-  ],
-  "reviewers": [
-  	{"name": "Tessa Mero", "email": "tmero@cisco.com"}
-  ],
+  "redirectTo": "collab-spark-intd-heroku-jp",
   "active": true
 }

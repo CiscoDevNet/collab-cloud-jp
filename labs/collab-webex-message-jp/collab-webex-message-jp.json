@@ -1,0 +1,32 @@
+{
+  "labId": "collab-webex-message-jp",
+  "title": "Creating Webex Rooms, Adding Participants and Posting Messages (Japanese)",
+  "slug": "「Webex Space の作成、参加者の追加、メッセージの投稿」 Webex API を使用して新しい常設チャット ルームを作成、メール アドレスで参加者を追加、および新しいメッセージを投稿する方法を学習します。",
+  "time": "30",
+   "byod": true,
+  "tags": [
+    {"title": "Japanese"},
+    {"title" : "コラボレーション"},
+    {"title": "Webex"}
+  ],
+  "related": [
+    {
+      "labId": "collab-webex-auth-jp",
+      "title": "Webex インテグレーションの OAuth フローについて理解する"
+    },
+    {
+	  "labId": "collab-sparkwebhook-jp",
+	  "title": "Webex Webhook の体験"
+	}
+  ],
+  "files": [
+    {"title": "1.md"},
+    {"title": "2.md"},
+    {"title": "3.md"},
+    {"title": "4.md"},
+    {"title": "5.md"}
+  ],
+  "authors": [
+  	{"name": "David Staudt", "email": "dstaudt@cisco.com"}
+  ]
+}
