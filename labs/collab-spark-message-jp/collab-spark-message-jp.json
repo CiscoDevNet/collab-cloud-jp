@@ -1,32 +1,12 @@
 {
   "labId": "collab-spark-message-jp",
-  "title": "Creating Spark Rooms, Adding Participants and Posting Messages (Japanese)",
-  "slug": "「Spark Space の作成、参加者の追加、メッセージの投稿」 Spark API を使用して新しい常設チャット ルームを作成、メール アドレスで参加者を追加、および新しいメッセージを投稿する方法を学習します。",
+  "title": "Creating Webex Rooms, Adding Participants and Posting Messages (Japanese)",
+  "slug": "「Webex Space の作成、参加者の追加、メッセージの投稿」 Webex API を使用して新しい常設チャット ルームを作成、メール アドレスで参加者を追加、および新しいメッセージを投稿する方法を学習します。",
   "time": "30",
-   "byod": true,
-  "tags": [
-    {"title": "Japanese"},
-    {"title" : "コラボレーション"},
-    {"title": "Spark"}
-  ],
-  "related": [
-    {
-      "labId": "collab-spark-auth-jp",
-      "title": "Cisco Spark インテグレーションの OAuth フローについて理解する"
-    },
-    {
-	  "labId": "collab-sparkwebhook-jp",
-	  "title": "Cisco Spark Webhook の体験"
-	}
-  ],    
+   "byod": false,
   "files": [
-    {"title": "1.md"},
-    {"title": "2.md"},
-    {"title": "3.md"},
-    {"title": "4.md"},
-    {"title": "5.md"}
+    {"title": "1.md"}
   ],
-  "authors": [
-  	{"name": "David Staudt", "email": "dstaudt@cisco.com"}
-  ]
+  "active": true,
+  "redirectTo": "collab-webex-message-jp"
 }

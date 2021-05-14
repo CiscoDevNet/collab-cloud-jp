@@ -1,0 +1,29 @@
+{
+  "labId": "collab-webex-zapier-jp",
+  "title": "Create a 'No-Code' Webex App with Zapier (Japanese)",
+  "slug": "「Zapier を使用した「コーディングなし」での Webex アプリの作成」このモジュールの目標は、Zapier クラウド API プラットフォームを使用して、Twitter のメッセージを Webex に取得するシンプルなアプリを作成します。",
+  "time": "30",
+  "byod": true,
+  "tags": [
+    {"title": "Japanese"},
+    {"title" : "コラボレーション"},
+    {"title": "Webex"},
+    {"title": "Zapier"}
+  ],
+  "related": [
+    {
+      "labId": "collab-webex-message-jp",
+      "title": "コラボレーション：Webex - ルームの作成、参加者の追加、メッセージの投稿"
+    }
+  ],
+  "files": [
+    {"title": "1.md"},
+    {"title": "2.md"},
+    {"title": "3.md"},
+    {"title": "4.md"}
+  ],
+  "authors": [
+  	{"name": "David Staudt", "email": "dstaudt@cisco.com"},
+  	{"name": "Austin Hyland", "email": "auhyland"}
+  ]
+}

@@ -1,29 +1,12 @@
 {
   "labId": "collab-spark-zapier-jp",
-  "title": "Create a 'No-Code' Spark App with Zapier (Japanese)",
-  "slug": "「Zapier を使用した「コーディングなし」での Spark アプリの作成」このモジュールの目標は、Zapier クラウド API プラットフォームを使用して、Twitter のメッセージを Spark に取得するシンプルなアプリを作成します。",
+  "title": "Create a 'No-Code' Webex App with Zapier (Japanese)",
+  "slug": "「Zapier を使用した「コーディングなし」での Webex アプリの作成」このモジュールの目標は、Zapier クラウド API プラットフォームを使用して、Twitter のメッセージを Webex に取得するシンプルなアプリを作成します。",
   "time": "30",
-  "byod": true,
-  "tags": [
-    {"title": "Japanese"},
-    {"title" : "コラボレーション"},
-    {"title": "Spark"},
-    {"title": "Zapier"}
-  ],
-  "related": [
-    {
-      "labId": "collab-spark-message-jp",
-      "title": "コラボレーション：Spark - ルームの作成、参加者の追加、メッセージの投稿"
-    }
-  ],
+  "byod": false,
+  "active": true,
+  "redirectTo": "collab-webex-zapier-jp",
   "files": [
-    {"title": "1.md"},
-    {"title": "2.md"},
-    {"title": "3.md"},
-    {"title": "4.md"}
-  ],
-  "authors": [
-  	{"name": "David Staudt", "email": "dstaudt@cisco.com"},
-  	{"name": "Austin Hyland", "email": "auhyland"}
+    {"title": "1.md"}
   ]
 }

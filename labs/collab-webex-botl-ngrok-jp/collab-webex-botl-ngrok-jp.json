@@ -1,0 +1,34 @@
+{
+  "labId": "collab-webex-botl-ngrok-jp",
+  "title": "Run a Webex Bot locally (Japanese)",
+  "slug": "「Webex ボットをローカルで実行する」このモジュールの目標は、nodejs のサンプルをローカル マシンで起動し、Webex ボットとして登録します。",
+  "time": 15,
+  "byod": true,
+  "files": [
+    {"title": "1.md"},
+    {"title": "2.md"},
+    {"title": "3.md"},
+    {"title": "4.md"},
+    {"title": "5.md"}
+  ],
+  "tags": [
+    {"title": "Japanese"},
+    {"title": "コラボレーション"},
+    {"title": "Webex"}
+  ],
+  "related": [
+    {
+      "labId": "collab-webex-botd-cloud9-jp",
+	    "title": "Webex ボットの展開"
+    }
+  ],
+  "authors": [
+  	{"name": "Stève Sfartz", "email": "stsfartz@cisco.com"}
+  ],
+  "reviewers": [
+  	{"name": "David Staudt", "email": "dstaudt@cisco.com"},
+   	{"name": "Armen Martirosyan", "email": "armartir@cisco.com"},
+    {"name": "Matthew Farrel", "email": "matfarre@cisco.com"}
+  ],
+  "active": true
+}

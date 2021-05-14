@@ -1,0 +1,31 @@
+{
+  "labId": "collab-webex-intl-jp",
+  "title": "Run a Webex Integration locally (Japanese)",
+  "slug": "「Webex インテグレーションをローカルで実行する」このモジュールの目標は、nodejs のサンプルをローカル マシンで起動し、Webex インテグレーションとして登録します。",
+  "time": 15,
+  "byod": true,
+  "files": [
+    {"title": "1.md"},
+    {"title": "2.md"},
+    {"title": "3.md"},
+    {"title": "4.md"}
+  ],
+  "tags": [
+    {"title": "Japanese"},
+    {"title": "コラボレーション"},
+    {"title": "Webex"}
+  ],
+  "related": [
+    {
+      "labId": "collab-webex-intd-heroku-jp",
+	    "title": "最初の Webex インテグレーションを展開します。"
+    }
+  ],
+  "authors": [
+  	{"name": "Stève Sfartz", "email": "stsfartz@cisco.com"}
+  ],
+  "reviewers": [
+  	{"name": "Tessa Mero", "email": "tmero@cisco.com"}
+  ],
+  "active": true
+}

@@ -1,0 +1,32 @@
+{
+  "labId": "collab-webex-apps-jp",
+  "title": "Introduction to Webex Apps (Japanese)",
+  "slug": "「Webex アプリの概要」 機能、使用例、Webex アプリのタイプ（インテグレーションおよびボット）など、Webex の拡張に関する概要です。",
+  "time": 15,
+  "byod": true,
+  "files": [
+    {"title": "1.md"},
+    {"title": "2.md"},
+    {"title": "3.md"},
+    {"title": "4.md"},
+    {"title": "5.md"}
+  ],
+  "tags": [
+    {"title": "Japanese"},
+    {"title" : "コラボレーション"},
+    {"title": "Webex"}
+  ],
+  "related": [
+    {
+      "labId": "collab-webex-message-jp",
+	    "title": "Postman での Webex API の呼び出し"
+    }
+  ],
+  "authors": [
+  	{"name": "Stève Sfartz", "email": "stsfartz@cisco.com"}
+  ],
+  "reviewers": [
+  	{"name": "David Staudt", "email": "dstaudt@cisco.com"}
+  ],
+  "active": true
+}
